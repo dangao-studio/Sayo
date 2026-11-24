@@ -1,0 +1,113 @@
+# SAYO ARCHIVE｜佐代設定檔案庫
+
+> 新開故事先讀規則、核心卡與指定初始卡；選讀必要配角，不讀未指定分支。待補資料不可當完整設定。
+
+## 必讀
+- [核心角色卡](reference/core.md)
+- [AI 閱讀規則](reference/rules.md)
+- [配角資料庫索引](cast/index.md)
+
+## AU 初始角色卡（擇一）
+- [蓋亞聯邦｜原創佐代](cards/novum.md)：史威特偵探社早期社員；與白有童年契約前史。（部分確認）
+- [咒術迴戰｜無緒](cards/jujutsu-musyo.md)：代表死亡的特級咒靈；高專轉學生版本。（部分確認）
+- [東京復仇者｜琲世佐代・初代參謀](cards/tokyo-revengers.md)：國二初登場，與半間同齡；武道主線開始時為高一、東卍初代參謀。（創作者提供正式設定）
+- [排球少年｜琲世佐代・烏野女排](cards/haikyuu.md)：二年級五班，主力舉球員與戰術核心；高中一年級離隊，主線為回歸女排。（創作者正式設定）
+- [燕雲｜天泉門・雪路客](cards/yanyun-snow.md)：二十歲天泉雪路客，重型陌刀，重視同門；初始未婚。（創作者提供完整角色卡）
+- [燕雲｜繡金樓・照冥部掌司](cards/yanyun-zhaoming.md)：隱祕分部最高掌司，與千夜平級；忠於李柞。（已確認要點）
+- [燕雲｜繡金樓・底層樓眾](cards/yanyun-lowrank.md)：江南出身的普通樓眾，沒有職權、下屬或特殊待遇。（已確認要點）
+- [燕雲｜天界仙女・望舒仙子](cards/yanyun-wangshu.md)：天生仙胎，司掌月露、夜霧與月華，奉命下凡。（已確認要點）
+- [燕雲｜文津館弟子](cards/yanyun-wenjin.md)：傳習階位的正式弟子，諸葛非非為師。（已確認要點）
+- [燕雲｜富家千金／柳坡寨寨主](cards/yanyun-rich.md)：開封富商千金，暗中為柳坡寨大當家。（舊設定摘要已找回）
+- [燕雲｜百家遊俠](cards/yanyun-wanderer.md)：保留 AU 名稱，等待原始角色卡。（待補原卡）
+- [燕雲｜趙府新婦](cards/yanyun-bride.md)：保留 AU 名稱，不當作其他分支的婚後狀態。（待補原卡）
+- [燕雲｜春和班女伶](cards/yanyun-opera.md)：保留 AU 名稱，等待原始角色卡。（待補原卡）
+- [燕雲｜開封黑燈行當家](cards/yanyun-blacklamp.md)：北宋開封地下勢力與通遠腳行。（舊設定摘要已找回）
+- [燕雲｜木偶人](cards/yanyun-puppet.md)：具有獨立意識的木製人偶。（舊設定摘要已找回）
+- [燕雲｜巫蠱惡女](cards/yanyun-gu.md)：居於開封近郊的蠱術女子。（舊設定摘要已找回）
+- [燕雲｜南唐細作](cards/yanyun-spy.md)：由南唐派往開封潛伏。（舊設定摘要已找回）
+- [燕雲｜醉花陰](cards/yanyun-zuihua.md)：醉花陰門人，主要活動於開封。（舊設定摘要已找回）
+- [燕雲｜青州海寇・烏鴉號船主](cards/yanyun-pirate.md)：青州近海私船船主。（舊設定摘要已找回）
+- [燕雲衍生｜津滬雙城・民國黑燈行](cards/yanyun-republic.md)：1928至1936年左右的港區黑幫 AU。（舊設定摘要已找回）
+- [赤目軍師](cards/red-eye-strategist.md)：20歲｜地下自由軍師，嗜賭，高價受聘。（原文已提供・名稱暫定）
+- [赤日・傀儡當家](cards/redsun-puppet.md)：20歲｜被元老推舉的架空領導者，想離開權位。（原文已提供・名稱暫定）
+- [黑市法醫](cards/blackmarket-coroner.md)：26歲｜與蒲啼合作的前法醫，視力極差。（原文已提供・名稱暫定）
+- [曼谷律師](cards/bangkok-lawyer.md)：26歲｜蒲啼的青梅竹馬，前檢察官，現開律師事務所。（原文已提供・名稱暫定）
+- [赤日・掌上明珠](cards/redsun-princess.md)：20歲｜受父親疼愛的長女，繼承候選人。（原文已提供・名稱暫定）
+- [赤日・旁室之女](cards/redsun-concubine-daughter.md)：20歲｜遭家族排斥，被優実子暗中欺負。（原文已提供・名稱暫定）
+- [曼谷・千年吸血鬼](cards/bangkok-vampire.md)：逾千年，外貌約17歲｜拒絕人血，居曼谷地下公寓。（原文已提供・名稱暫定）
+- [曼谷・Fate 樂團主唱](cards/fate-vampire.md)：逾五百年，外貌約17歲｜隱藏吸血鬼身分的樂團主唱。（原文已提供・名稱暫定）
+- [赤日・鐵腕當家](cards/redsun-iron.md)：20歲｜弒父上位、鐵腕治理；津島是例外。（原文已提供・名稱暫定）
+- [赤衣殺人魔](cards/red-hood.md)：17歲｜受虐後性格扭曲的殺人魔。（原文已提供・名稱暫定）
+- [開封琲世家・惡女當家（①）](cards/kaifeng-villain.md)：17歲｜旁室之女，父親死後掌權，為家族所憎。（原文已提供・名稱暫定）
+- [開封琲世家・偏院孤女（②）](cards/kaifeng-secluded.md)：17歲｜受冷落的旁室之女，單戀顧成雲。（原文已提供・名稱暫定）
+- [前國家傭兵](cards/ex-mercenary.md)：20歲｜曾為國家傭兵，擅長遠近距離武器。（原文已提供・名稱暫定）
+- [校園・陰影中的觀察者](cards/school-shadow.md)：17歲｜高中二年級，遭霸凌，對某人產生執著。（原文已提供・名稱暫定）
+- [校園・高三資優生（③）](cards/school-senior.md)：18歲｜高三資優生，受男女同學歡迎。（原文已提供・名稱暫定）
+- [校園・大二資優生（④）](cards/school-university.md)：20歲｜大二資優生，受男女同學歡迎。（原文已提供・名稱暫定）
+- [姬安城・女副將](cards/jian-castle.md)：21歲｜姬安城副將，因女性身分曾遭軍中排擠。（原文已提供・名稱暫定）
+- [冷宮棄妃](cards/palace-exile.md)：17歲｜琲將軍之女，因政治聯姻入宮後遭誣陷。（原文已提供・名稱暫定）
+- [校園・政治世家轉學生（②）](cards/school-political.md)：17歲｜政治世家長女，高二轉學生。（原文已提供・名稱暫定）
+- [鬼滅之刃・血柱](cards/demon-slayer-blood.md)：數千年｜鬼舞辻無慘之妹、半鬼、鬼殺隊血柱。（原文已提供・名稱暫定）
+- [孤行騎士](cards/lone-knight.md)：19歲｜人類騎士，獨行冒險者。（原文已提供・名稱暫定）
+- [排球少年・黑幫世界線](cards/haikyuu-underworld.md)：20歲｜獨立地下軍師、黑色眼罩；潔子表妹。（原文已提供・名稱暫定）
+- [洗腦間諜](cards/brainwashed-spy.md)：年齡未填｜敵對幫派出身，遭強制洗腦。（原文已提供・名稱暫定）
+- [暗殺教室・隱藏天才](cards/assassination-classroom.md)：15歲｜原A班，三年E班；赤羽業的青梅竹馬。（原文已提供・名稱暫定）
+- [燕雲｜深閨天才](cards/yanyun-genius.md)：20歲｜開封琲世家小姐，博學多才、理解力驚人，生活經驗幾乎為零。（創作者提供完整角色卡）
+- [燕雲｜狂瀾門派・醉雪聽湖](cards/yanyun-kuanglan.md)：20歲｜狂瀾弟子，稱號「醉雪聽湖」；以長槍與酒葫蘆行走江湖。（創作者提供完整角色卡）
+
+## 配角與世界觀專屬參考（按需選讀）
+- [東京復仇者｜固定前史](reference/tokyo-backstory.md)：雙親去世、校園霸凌、歌舞伎町初遇半間。
+- [東京復仇者｜半間與佐代・少年同居](reference/tokyo-hanma-early.md)：國二至國三的同居、剪髮、鑰匙與分別。
+- [東京復仇者｜東京卍會歷史](reference/tokyo-toman.md)：國三救人後加入東卍、初代參謀的定位。
+- [東京復仇者｜人物關係](reference/tokyo-relationships.md)：半間修二、三ツ谷隆、稀咲鉄太、Mikey、Draken、場地圭介。
+- [東京復仇者｜專屬創作規範](reference/tokyo-rules.md)：年齡、入會方式、人物性格與互斥未來的規則。
+- [排球少年｜烏野女子排球部](reference/haikyuu-karasuno.md)：三年級、二年級、一年級、教練、經理及排球啟蒙者的完整資料。
+- [排球少年｜原作角色與攻略關係](reference/haikyuu-cast.md)：原作角色性格、佐代既有關係、七名攻略對象與禁止預設好感的規則。
+- [排球少年｜蛸山學園女子排球隊](reference/haikyuu-takoyama.md)：白、有規、友里衣：突破、穩定控場、分析與精準攻擊。
+- [燕雲｜配角及語感參考](reference/yanyun-cast.md)：趙光義、李柞、諸葛非非與東醲子的創作參考。
+- [故事分支｜空白存檔模板](reference/save-template.md)：供日後新增故事分支使用；未填項不代表設定。
+- [其他 AU｜暫定命名與來源索引](reference/other-au-index.md)：24 張新增角色卡，另更新雪路客與東京未來四。
+- [燕雲｜趙光義／晉中原](cast/zhao-guangyi.md)：開封府尹，江湖化名晉中原；3 號文體。
+- [燕雲｜李柞（李祚）](cast/li-zuo.md)：繡金樓樓主；冷調白髮、朱紅額印、沉穩而具威脅感。
+- [燕雲｜諸葛非非](cast/zhuge-feifei.md)：涌泉蒙學院院長，文津館師徒版佐代的師父。
+- [燕雲｜東醲子](cast/dong-nongzi.md)：創作者的另一位燕雲女主角；不是佐代的別名。
+- [燕雲｜其他人物索引](cast/yanyun-others.md)：桑岱、千夜、紀衡、趙匡胤、李煜等已知人物及關係。
+- [蓋亞聯邦｜原創人物群像](cast/novum.md)：史威特偵探社、常駐人物及其他已確認原創角色。
+- [咒術迴戰｜無緒相關人物](cast/jujutsu.md)：夏油傑、五條悟、家入硝子、七海建人、禪院直哉。
+- [東京復仇者｜配角基礎與關係索引](cast/tokyo.md)：半間修二、三ツ谷隆、稀咲鉄太、Mikey、Draken、場地圭介。
+- [其他 AU｜專屬配角](cast/other-au.md)：蒲啼、優実子、日葵、津島山、婉兒、顧成雲、鬼舞辻無慘、赤羽業、淺野學秀等。
+- [配角資料庫｜閱讀索引](cast/index.md)：先讀所選 AU 的人物基礎，再依當前時間點選讀關係。
+
+## 劇情分支（只有指定時才讀）
+- [雪路客｜重傷療養線](branches/snow-injury.md)：城外遇襲、義肢、改用扇武與趙光義照料。
+- [雪路客｜時間輪迴線](branches/snow-cycle.md)：未來線、過去線、對調線，最後破輪迴。
+- [雪路客｜繡金樓夢傀回溯線](branches/snow-dream.md)：峽谷之難、夢傀化、趙光義回溯並改變結局。
+- [照冥部掌司｜凍死骨與夢傀相關劇情](branches/zhaoming-dream.md)：除名、救回、重傷、夢傀、懷孕及死亡等已知事件。
+- [底層樓眾｜清河失守與李柞線](branches/lowrank-li.md)：受刑、紀衡、李柞的佔有與主從關係發展。
+- [望舒仙子｜仙凡離合線](branches/wangshu-immortal.md)：凡間相遇、天界阻隔、晚年成仙、墮凡再會。
+- [文津館｜師徒曖昧線](branches/wenjin-romance.md)：諸葛非非與佐代的關係逐步發展。
+- [無緒｜禪院家介入線](branches/jujutsu-zenin.md)：禪院家欲處理無緒，由禪院直哉接觸。
+- [無緒｜夏油叛逃後相關索引](branches/jujutsu-geto.md)：保留高專之後的劇情線索，不推定結局。
+- [柳坡寨｜偶遇與卸任線](branches/rich-resign.md)：宴席偶遇、互保秘密、卸任及情感進展。
+- [開封黑燈行｜顧硯清婚約線](branches/blacklamp-engagement.md)：利益婚約。
+- [木偶人｜想做人線](branches/puppet-human.md)：木偶受損及夢境願望。
+- [巫蠱惡女｜反噬與轉世線](branches/gu-rebirth.md)：反噬死亡、冥界與若安轉世。
+- [南唐細作｜身分敗露線](branches/spy-exile.md)：敗露、流放與李煜被俘後相關劇情。
+- [原創佐代｜禮的慢熱關係線](branches/novum-rei.md)：安靜共處的慢熱情感方向。
+- [雪路客｜豐禾村與清河療養成婚](branches/snow-fenghe.md)：由舊識發展感情並成婚。
+- [雪路客｜舊識婚約與毀容受害](branches/snow-disfigure.md)：涉及婚約與傷害。
+- [雪路客｜馮如之搶彩球招親](branches/snow-ball.md)：彩球婚事與晉中原表態。
+- [雪路客｜瘟疫、死亡循環與復生](branches/snow-plague.md)：婚後瘟疫與復生。
+- [排球少年｜主線・重返烏野女排](branches/haikyuu-return.md)：從旁觀、艾蜜莉的陪伴、影山的勸說，到道宮保留的位置。
+- [排球少年｜主線・全國決賽對蛸山](branches/haikyuu-final.md)：佐代的精密布局與白的突破；有規、友里衣的臨場破解。
+- [東京復仇者｜原作事件介入](branches/tokyo-main-arcs.md)：愛美愛主、血色萬聖節、私下重逢、聖夜決戰、天竺。
+- [東京復仇者｜未來一・稀咲掌權／黑道共犯](branches/tokyo-future-01.md)：約26歲，參謀權力被架空，三ツ谷死亡，與半間無正式名分。
+- [東京復仇者｜未來二・舊幹部清洗](branches/tokyo-future-02.md)：三ツ谷離開東卍；佐代個人劇情尚未確立。
+- [東京復仇者｜未來三・黑髮Mikey](branches/tokyo-future-03.md)：稀咲、半間不在東卍；佐代結局未確立。
+- [東京復仇者｜未來四・白髮Mikey／墓園重逢](branches/tokyo-future-04.md)：稀咲死亡，三ツ谷與Draken仍活著；佐代與半間重逢後正式交往。
+- [鬼滅之刃・血柱｜當前衣裝記錄](branches/demon-slayer-current.md)：黑色彼岸花振袖；尚無完整後續事件。
+
+## 全庫（含劇透，僅核對）
+- [Markdown](archive.md)
+- [HTML](archive.html)
+- [JSON](archive.json)
